@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(){
-    std::cout << "кускус" << std::endl;
+    std::cout << "siemens" << std::endl;
 }
